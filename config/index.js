@@ -95,41 +95,15 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
+      name: "涛哥",
+      id: "omA5d5h1uYXYaF0qdtm4h_GahoPw",
+      useTemplateId: "5tJG8JziHsGFyDisNkc7GBOveYcHERR5kkVUZfJkxpM",
+      province: "浙江",
+      city: "杭州",
+      openUrl: "https://baidu.com",
+      festivals: [{"type": "*生日", "name": "老婆", "year": "1997", "date": "10-22"}],
+      customizedDateList: [{"keyword": "love_day", date: "2020-11-27"}]
+    }
     // 你可以不断按格式往下增加
     // ...
   ],
