@@ -97,7 +97,7 @@ export const config = {
     {
       name: "涛哥",
       id: "omA5d5h1uYXYaF0qdtm4h_GahoPw",
-      useTemplateId: "ukjpYj_ifzVl6Aocau_XT9cvDE2ke5OVmI5mROIDrks",
+      useTemplateId: "KOGKPNuXfUDvXXjD1znWFnVLPKxSBs8fHlHf8ubxbn0",
       province: "浙江",
       city: "杭州",
       festivals: [{"type": "*生日", "name": "宝贝", "year": "1997", "date": "10-17"}],
