@@ -97,10 +97,10 @@ export const config = {
     {
       name: "涛哥",
       id: "omA5d5h1uYXYaF0qdtm4h_GahoPw",
-      useTemplateId: "QsgZZH3iuVO6EOLVJB0dx-tHD6iHF3C43ycAnmLyBQw",
+      useTemplateId: "ukjpYj_ifzVl6Aocau_XT9cvDE2ke5OVmI5mROIDrks",
       province: "浙江",
       city: "杭州",
-      festivals: [{"type": "*生日", "name": "老婆", "year": "1997", "date": "10-22"}],
+      festivals: [{"type": "*生日", "name": "宝贝", "year": "1997", "date": "10-17"}],
       customizedDateList: [{"keyword": "love_day", date: "2020-11-27"}]
     }
     // 你可以不断按格式往下增加
