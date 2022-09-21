@@ -96,8 +96,8 @@ export const config = {
     },
     {
       name: "涛哥",
-      id: "5tJG8JziHsGFyDisNkc7GBOveYcHERR5kkVUZfJkxpM",
-      useTemplateId: "zDI6I4WqxVtTpvWevGE_MIJu8lAc5vpnnJP04ix_c5A",
+      id: "omA5d5h1uYXYaF0qdtm4h_GahoPw",
+      useTemplateId: "5tJG8JziHsGFyDisNkc7GBOveYcHERR5kkVUZfJkxpM",
       province: "浙江",
       city: "杭州",
     },
