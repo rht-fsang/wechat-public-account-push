@@ -110,8 +110,7 @@ export const config = {
       city: "杭州",
       openUrl: "https://weibo.com/hot/search",
       festivals: [
-        {"type": "*生日", "name": "宝贝", "year": "1997", "date": "09-22"},
-        {"type": "*开心日", "name": "宝贝", "year": "*", "date": "*-22"}
+        {"type": "*生日", "name": "宝贝", "year": "1997", "date": "09-22"}
       ],
       customizedDateList: [{"keyword": "love_day", date: "2020-11-27"}]
     }
