@@ -100,7 +100,6 @@ export const config = {
       useTemplateId: "QsgZZH3iuVO6EOLVJB0dx-tHD6iHF3C43ycAnmLyBQw",
       province: "浙江",
       city: "杭州",
-      openUrl: "https://baidu.com",
       festivals: [{"type": "*生日", "name": "老婆", "year": "1997", "date": "10-22"}],
       customizedDateList: [{"keyword": "love_day", date: "2020-11-27"}]
     }
