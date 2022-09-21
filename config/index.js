@@ -103,11 +103,16 @@ export const config = {
     },
      {
       name: "肥猪",
-      id: "omA5d5iNv0tZ3AVta9fx75YAbPEc",
+//       id: "omA5d5iNv0tZ3AVta9fx75YAbPEc",
+       id: "omA5d5h1uYXYaF0qdtm4h_GahoPw",
       useTemplateId: "zDI6I4WqxVtTpvWevGE_MIJu8lAc5vpnnJP04ix_c5A",
       province: "浙江",
       city: "杭州",
-      festivals: [{"type": "*生日", "name": "宝贝", "year": "1997", "date": "10-17"}],
+      openUrl: "https://weibo.com/hot/search",
+      festivals: [
+        {"type": "*生日", "name": "宝贝", "year": "1997", "date": "09-22"},
+        {"type": "*开心日", "name": "宝贝", "year": "*", "date": "*-22"}
+      ],
       customizedDateList: [{"keyword": "love_day", date: "2020-11-27"}]
     }
     // 你可以不断按格式往下增加
