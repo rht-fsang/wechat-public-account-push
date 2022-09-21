@@ -97,7 +97,7 @@ export const config = {
     {
       name: "涛哥",
       id: "omA5d5h1uYXYaF0qdtm4h_GahoPw",
-      useTemplateId: "5tJG8JziHsGFyDisNkc7GBOveYcHERR5kkVUZfJkxpM",
+      useTemplateId: "QsgZZH3iuVO6EOLVJB0dx-tHD6iHF3C43ycAnmLyBQw",
       province: "浙江",
       city: "杭州",
       openUrl: "https://baidu.com",
