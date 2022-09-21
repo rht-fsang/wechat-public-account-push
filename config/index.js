@@ -95,18 +95,18 @@ export const config = {
       ]
     },
     
-     {
-      name: "肥猪",
-      id: "omA5d5iNv0tZ3AVta9fx75YAbPEc",
-      useTemplateId: "zDI6I4WqxVtTpvWevGE_MIJu8lAc5vpnnJP04ix_c5A",
-      province: "浙江",
-      city: "杭州",
-      openUrl: "https://weibo.com/hot/search",
-      festivals: [
-        {"type": "*生日", "name": "涛哥", "year": "2000", "date": "02-08"}
-      ],
-      customizedDateList: [{"keyword": "love_day", date: "2020-11-27"}]
-    },
+//      {
+//       name: "肥猪",
+//       id: "omA5d5iNv0tZ3AVta9fx75YAbPEc",
+//       useTemplateId: "zDI6I4WqxVtTpvWevGE_MIJu8lAc5vpnnJP04ix_c5A",
+//       province: "浙江",
+//       city: "杭州",
+//       openUrl: "https://weibo.com/hot/search",
+//       festivals: [
+//         {"type": "*生日", "name": "涛哥", "year": "2000", "date": "02-08"}
+//       ],
+//       customizedDateList: [{"keyword": "love_day", date: "2020-11-27"}]
+//     },
      {
       name: "涛哥",
       id: "omA5d5h1uYXYaF0qdtm4h_GahoPw",
